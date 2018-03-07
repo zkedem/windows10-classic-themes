@@ -87,7 +87,7 @@ ScreenSaveActive=0
 Path=%SystemRoot%\resources\themes\Aero\AeroLite.msstyles
 ColorStyle=NormalColor
 Size=NormalSize
-HighContrast=55
+HighContrast=5
 
 [boot]
 SCRNSAVE.EXE=
