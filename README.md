@@ -55,4 +55,4 @@ I recommend Notepad++ for this, as you can open the 18 files in one window. We'l
 ![Modifying standard.theme in Notepad++.](images/step12.PNG)
 
 ## Step 13: Enjoy!
-
+![Screenshot of Windows 10 Pro with Classic theme.](images/step13.PNG)
