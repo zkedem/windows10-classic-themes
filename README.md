@@ -10,9 +10,9 @@ Here's a rundown of the basic steps I went through in porting these themes to Wi
 ## Step 1: Get VirtualBox.
 ![VirtualBox Manager homepage.](images/step1.PNG)
 
-## Step 2: Create a VM with Windows XP as the guest OS...
+## Step 2: Create a VM with Windows XP as the guest OS…
 ![Windows XP (WEPOS 2009) with Luna theme.](images/step2a.PNG)
-## ...or in my case (due to security concerns), Windows Embedded POSReady 2009, which is one of two editions Microsoft still supports (the other is Embedded Standard 2009).
+## …or in my case (due to security concerns), Windows Embedded POSReady 2009, which is one of two editions Microsoft still supports (the other is Embedded Standard 2009).
 ![Windows XP (WEPOS 2009) with Embedded theme.](images/step2b.PNG)
 
 ## Step 3: Create a readily accessible folder in which to store the theme files.
