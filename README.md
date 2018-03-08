@@ -53,3 +53,6 @@ We're purposefully omitting the 4 High Contrast ones, as those are already prese
 ## Step 12: Using a text editor, modify the theme files to make them compatible with Windows 10.
 I recommend Notepad++ for this, as you can open the 18 files in one window. We'll have to add details like the theme name and specify aerolite.msstyles as the visual styles, as well as other sections needed for the theme to function properly. You can use the Windows 10 High Contrast theme files as reference points, or just look at the versions I've uploaded
 ![Modifying standard.theme in Notepad++.](images/step12.PNG)
+
+## Step 13: Enjoy!
+![Screenshot of Windows 10 Pro with modified Windows Standard theme.](images/step13.PNG)
