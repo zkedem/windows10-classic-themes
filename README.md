@@ -32,7 +32,7 @@ The filename "standard.theme" refers to the Windows Standard color scheme.
 Again, the filename corresponds to the abbreviated name of the color scheme, i.e. brick.theme for "Brick", redwhiteblue.theme for "Red, White, and Blue (VGA)", and plum.theme for "Plum (high color)".
 ![The Themes tab again.](images/step7a.PNG)
 ![Saving Brick as brick.theme](images/step7b.PNG)
-![And we've saved two color schemes so far.](images/step7c.PNG)
+![So far, we've saved two color schemes.](images/step7c.PNG)
 
 ## Step 8: Repeat Steps 6 and 7 for the remaining 16-or-so color schemes.
 We're purposefully omitting the 4 High Contrast ones, as those are already present in Windows 10.
@@ -49,7 +49,7 @@ We're purposefully omitting the 4 High Contrast ones, as those are already prese
 ![Here's all our theme files copied over to the host.](images/step11.PNG)
 
 ## Step 12: Using a text editor, modify the theme files to make them compatible with Windows 10.
-I recommend Notepad++ for this, as you can open the 18 files in one window. We'll have to add details like the theme name and specify aerolite.msstyles as the visual style, as well as other sections needed for the theme to function properly. You can use the Windows 10 High Contrast theme files as reference points, or just look at the versions I've uploaded
+I recommend Notepad++ for this, as you can open the 18 files in one window. We'll have to add details like the theme name and specify aerolite.msstyles as the visual style, as well as other sections needed for the theme to function properly. You can use the Windows 10 High Contrast theme files as reference points, or just look at the versions I've uploaded.
 ![Modifying standard.theme in Notepad++.](images/step12.PNG)
 
 ## Step 13: Enjoy!
