@@ -10,9 +10,7 @@ Here's a rundown of the basic steps I went through in porting these themes to Wi
 ## Step 1: Get VirtualBox.
 ![VirtualBox Manager homepage.](images/step1.PNG)
 
-## Step 2: Create a VM with Windows XP as the guest OS…
-![Windows XP (WEPOS 2009) with Luna theme.](images/step2a.PNG)
-## …or in my case (due to security concerns), Windows Embedded POSReady 2009, which is one of two editions Microsoft still supports (the other is Embedded Standard 2009).
+## Step 2: Create a VM with Windows XP as the guest OS… ![Windows XP (WEPOS 2009) with Luna theme.](images/step2a.PNG) or in my case (due to security concerns), Windows Embedded POSReady 2009, which is one of two editions Microsoft still supports (the other is Embedded Standard 2009).
 ![Windows XP (WEPOS 2009) with Embedded theme.](images/step2b.PNG)
 
 ## Step 3: Create a readily accessible folder in which to store the theme files.
@@ -51,7 +49,7 @@ We're purposefully omitting the 4 High Contrast ones, as those are already prese
 ![Here's all our theme files copied over to the host.](images/step11.PNG)
 
 ## Step 12: Using a text editor, modify the theme files to make them compatible with Windows 10.
-I recommend Notepad++ for this, as you can open the 18 files in one window. We'll have to add details like the theme name and specify aerolite.msstyles as the visual styles, as well as other sections needed for the theme to function properly. You can use the Windows 10 High Contrast theme files as reference points, or just look at the versions I've uploaded
+I recommend Notepad++ for this, as you can open the 18 files in one window. We'll have to add details like the theme name and specify aerolite.msstyles as the visual style, as well as other sections needed for the theme to function properly. You can use the Windows 10 High Contrast theme files as reference points, or just look at the versions I've uploaded
 ![Modifying standard.theme in Notepad++.](images/step12.PNG)
 
 ## Step 13: Enjoy!
