@@ -4,6 +4,8 @@ I chose the GNU AGPL because I realized some systems administrator would install
 
 This is a sister project to my Basic theme for Windows 10, which is still in the works.
 
+windows10-classic-themes now features its own setup wizard created with Inno Script Studio. Its source code is located at theme-setup.iss, and a compiled version can be found in the Output directory.
+
 # How these themes were built:
 Here's a rundown of the basic steps I went through in porting these themes to Windows 10:
 
