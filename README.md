@@ -10,7 +10,7 @@ Here's a rundown of the basic steps I went through in porting these themes to Wi
 ## Step 1: Get VirtualBox.
 ![VirtualBox Manager homepage.](images/step1.PNG)
 
-## Step 2: Create a VM with Windows XP as the guest OS… ![Windows XP (WEPOS 2009) with Luna theme.](images/step2a.PNG) or in my case (due to security concerns), Windows Embedded POSReady 2009, which is one of two editions Microsoft still supports (the other is Embedded Standard 2009).
+## Step 2: Create a VM with Windows XP as the guest OS… ![Windows XP (WEPOS 2009) with Luna theme.](images/step2a.PNG) or in my particular case, Windows Embedded POSReady 2009, which is one of two editions Microsoft still supports (the other is Embedded Standard 2009).
 ![Windows XP (WEPOS 2009) with Embedded theme.](images/step2b.PNG)
 
 ## Step 3: Create a readily accessible folder in which to store the theme files.
@@ -29,7 +29,7 @@ The filename "standard.theme" refers to the Windows Standard color scheme.
 ![Changed the color scheme to Brick.](images/step6b.PNG)
 
 ## Step 7: Save the Brick theme in the Classic Themes folder.
-Again, the filename corresponds to the abbreviated name of the color scheme, i.e. brick.theme for "Brick", redwhiteblue.theme for "Red, White, and Blue (VGA)", and plum.theme for "Plum (high color)".
+Note that the filename is the abbreviated name of the color scheme, i.e. brick.theme for "Brick", redwhiteblue.theme for "Red, White, and Blue (VGA)", and plum.theme for "Plum (high color)".
 ![The Themes tab again.](images/step7a.PNG)
 ![Saving Brick as brick.theme](images/step7b.PNG)
 ![So far, we've saved two color schemes.](images/step7c.PNG)
