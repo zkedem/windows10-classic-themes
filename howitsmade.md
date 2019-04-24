@@ -1,10 +1,12 @@
+Microsoft has dropped support for WEPOS 2009. RIP Windows XP for real, I guess.
+
 # How these themes were built:
 Here's a rundown of the basic steps I went through in porting these themes to Windows 10:
 
 ## Step 1: Get VirtualBox.
 ![VirtualBox Manager homepage.](images/step1.PNG)
 
-## Step 2: Create a VM with Windows XP as the guest OS… ![Windows XP (WEPOS 2009) with Luna theme.](images/step2a.PNG) or in my particular case, Windows Embedded POSReady 2009, which is one of two editions Microsoft still supports (the other is Embedded Standard 2009).
+## Step 2: Create a VM with Windows XP as the guest OS. ![Windows XP (WEPOS 2009) with Luna theme.](images/step2a.PNG) Windows Embedded POSReady 2009 also works.
 ![Windows XP (WEPOS 2009) with Embedded theme.](images/step2b.PNG)
 
 ## Step 3: Create a readily accessible folder in which to store the theme files.
@@ -47,4 +49,4 @@ I recommend Notepad++ for this, as you can open the 18 files in one window. We'l
 ![Modifying standard.theme in Notepad++.](images/step12.PNG)
 
 ## Step 13: Enjoy!
-![Screenshot of Windows 10 Pro with Classic theme.](images/step13.PNG)
+![Screenshot of Windows 10 Pro (Insider Preview) with Classic theme.](images/step13.PNG)
