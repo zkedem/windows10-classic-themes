@@ -2,6 +2,7 @@
 ## 4/23/19
 - howitsmade.md updated.
 - A new "docs" folder was created that now contains howitsmade.md as well as the images.
+- Released version 1.0.1 (nothing major, just some updated documentation).
 ## 4/16/2018
 - The Output directory has been removed; the setup executable can now be found in the Releases section.
 ## 4/15/2018
